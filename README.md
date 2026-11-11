@@ -6,7 +6,7 @@ I work in Arabic, French, and English.
 
 ## Internship
 
-**Security intern — Besoin Marketing (Casablanca).** Final-year internship securing [Besoin.ma](https://besoin.ma), a hybrid WordPress–Laravel marketplace. My work included:
+**Security intern — Besoin Marketing (Casablanca).** Final-year internship securing the marketplace platform, My work included:
 
 - Security-by-Design review, STRIDE threat modeling, and data-flow analysis
 - Web and API security testing (OWASP, including BOLA/IDOR access-control issues)
