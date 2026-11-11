@@ -2,7 +2,7 @@
 
 Master’s graduate in **IT Security and Big Data** (Faculty of Sciences and Techniques of Tangier, Abdelmalek Essaâdi University). I am looking for a junior role in **application security**, **penetration testing**, **SOC / detection**, or **AI security**, preferably remote from Morocco, or based in Rabat or Casablanca.
 
-I work in Arabic, French, and English.
+
 
 ## Internship
 
@@ -14,7 +14,7 @@ I work in Arabic, French, and English.
 - An ELK Stack monitoring proof of concept for centralized logs and suspicious-activity analysis
 - Security testing of the platform’s AI assistant, including indirect prompt injection through database-stored user content and risks in vector retrieval
 
-Public artifact from this internship: [besoin-ma-digital-platform-architecture](https://github.com/chaimaebouassab4-boop/besoin-ma-digital-platform-architecture) (frontend architecture and WordPress–Laravel API bridge). Findings and client internals are not published.
+
 
 ## Selected academic and personal projects
 
